@@ -1,1 +1,5 @@
-# Mini-LISP_compiler
+To 學弟妹：<br>
+如果你打算抄四年作業，你不如現在就去找工作。<br>
+抄襲一時；後悔一世。<br>
+<br>
+Lex(Flex)及YACC(Bison)需要額外安裝相關程式，且本專案僅在課程提供之「Ubuntu (64-bit)」虛擬機上進行測試，程式碼僅供參考。
